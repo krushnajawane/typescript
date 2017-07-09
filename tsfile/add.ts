@@ -3,4 +3,5 @@ function add(a,b){
 }
 //add(2,4);
 console.log(add(2,5))
+console.log("create krushna");
 
